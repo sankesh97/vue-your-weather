@@ -3,8 +3,8 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <div>
-    <!--<div className="section container text-center" id="1">
+  <!--<div>
+   <div className="section container text-center" id="1">
       <div className="row">
         <div className="col-sm-6 p-5">
           <img src="{yourWeatherLogo}" alt="Rain" className="img-fluid" />
